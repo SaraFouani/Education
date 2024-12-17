@@ -1,4 +1,4 @@
-Country,OverallScore,Math Score ,Reading Score ,Science Score ,Population,Unemployemt Rate,Male Unemployemt Rate,Female Unemployemt Rate,Unemployemt,MU,FU,IncomeGroup,ASM,Math Score ,Reading Score ,Science Score ,ASF,Math Score ,Reading Score ,Science Score ,Legend 
+Country,OverallScore,Math Score ,Reading Score ,Science Score ,Population,UnemployemtRate,MaleUnemployemtRate,FemaleUnemployemtRate,Unemployemt,MU,FU,IncomeGroup,ASM,Math Score ,Reading Score ,Science Score ,ASF,Math Score ,Reading Score ,Science Score ,Legend 
 Albania,367,368,358,376,"2,791,765",11.60%,11.70%,11.40%,3238,3266,3183,Lower-middle-income,367,368,358,376,367,367,358,376,Average Score of Female = ASF
 Argentina,395,378,401,406,"45,696,159",6.20%,5.70%,6.80%,28332,26047,31073,Upper-middle-income,395,378,401,406,389,395,378,395,Average Score of Memale = ASM
 Australia,497,487,498,507,"26,713,205",3.70%,3.80%,3.60%,9884,10151,9617,High-income,497,487,498,507,493,498,487,495,Male Unemployemt = MU
